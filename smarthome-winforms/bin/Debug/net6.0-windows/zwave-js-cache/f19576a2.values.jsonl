@@ -1,0 +1,5 @@
+{"k":"{\"nodeId\":1,\"commandClass\":114,\"endpoint\":0,\"property\":\"manufacturerId\"}","v":0}
+{"k":"{\"nodeId\":1,\"commandClass\":114,\"endpoint\":0,\"property\":\"productType\"}","v":4}
+{"k":"{\"nodeId\":1,\"commandClass\":114,\"endpoint\":0,\"property\":\"productId\"}","v":4}
+{"k":"{\"nodeId\":1,\"commandClass\":134,\"endpoint\":0,\"property\":\"firmwareVersions\"}","v":["7.0"]}
+{"k":"{\"nodeId\":1,\"commandClass\":134,\"endpoint\":0,\"property\":\"sdkVersion\"}","v":"7.11.0"}

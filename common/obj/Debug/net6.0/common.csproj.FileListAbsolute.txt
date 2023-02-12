@@ -1,0 +1,12 @@
+C:\Users\djsteffey\Desktop\programming\smarthome\common\bin\Debug\net6.0\common.deps.json
+C:\Users\djsteffey\Desktop\programming\smarthome\common\bin\Debug\net6.0\common.dll
+C:\Users\djsteffey\Desktop\programming\smarthome\common\bin\Debug\net6.0\common.pdb
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.csproj.AssemblyReference.cache
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.AssemblyInfoInputs.cache
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.AssemblyInfo.cs
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.csproj.CoreCompileInputs.cache
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.dll
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\refint\common.dll
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\common.pdb
+C:\Users\djsteffey\Desktop\programming\smarthome\common\obj\Debug\net6.0\ref\common.dll
